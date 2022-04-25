@@ -1,5 +1,5 @@
-# Snake
-This is the classic game Snake implemented in C++
+# Raytracer
+A basic raytracer implemented in C++
 
 # Dependencies
 [Raylib](https://raylib.com)
@@ -7,5 +7,5 @@ This is the classic game Snake implemented in C++
 # Build
 ```
 $ make
-$ ./snake
+$ ./raytracer
 ```
